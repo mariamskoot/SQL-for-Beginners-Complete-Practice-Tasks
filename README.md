@@ -6,7 +6,7 @@ Official Internal Training Assignment | Database & Backend Department
 A progressive, hands-on SQL training task designed for complete beginners. You will build a full relational database (`company_store`) for a small company that also runs an online store, starting from creating the database all the way to advanced queries, joins, subqueries, views, and indexes.
 
 **Total Questions:** 133  
-**Sections:** 14  
+**Sections:** 15
 **Task Type:** Practical SQL Training Task  
 **Supported Databases:** MySQL · PostgreSQL · SQLite · SQL Server
 **Level:** Beginner
@@ -48,11 +48,11 @@ A progressive, hands-on SQL training task designed for complete beginners. You w
 | 8       | Basic SELECT Queries                       | Columns, aliases, expressions              |
 | 9       | Filtering with WHERE                       | Conditions, LIKE, IN, NULL, AND/OR         |
 | 10      | Sorting and Limiting Results               | ORDER BY, LIMIT / OFFSET                   |
-| 10B     | Ranking with TOP / RANK / ROW_NUMBER       | Window functions                           |
-| 11      | Aggregate Functions and GROUP BY           | COUNT, SUM, AVG, MIN, MAX, HAVING          |
-| 12      | Joins                                      | INNER, LEFT, multi-table joins             |
-| 13      | Subqueries                                 | Nested & correlated subqueries             |
-| 14      | Views, Indexes & Final Challenges          | Views, indexes + open-ended challenges     |
+| 11     | Ranking with TOP / RANK / ROW_NUMBER       | Window functions                           |
+| 12      | Aggregate Functions and GROUP BY           | COUNT, SUM, AVG, MIN, MAX, HAVING          |
+| 13      | Joins                                      | INNER, LEFT, multi-table joins             |
+| 14      | Subqueries                                 | Nested & correlated subqueries             |
+| 15      | Views, Indexes & Final Challenges          | Views, indexes + open-ended challenges     |
 
 ---
 
