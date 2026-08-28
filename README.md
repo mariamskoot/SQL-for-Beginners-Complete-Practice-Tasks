@@ -13,21 +13,11 @@ A progressive, hands-on SQL training task designed for complete beginners. You w
 ---
 
 
-Each file contains the SQL statements (and explanatory comments where needed) for its corresponding section.
+> Each file contains the SQL statements (and explanatory comments where needed) for its corresponding section.
 
 ---
 
-## How to Use
 
-1. Choose your database system (MySQL, PostgreSQL, SQLite, or SQL Server).
-2. Create a new database or connection.
-3. Open the section files **in order** (later sections depend on tables and data created earlier).
-4. Run the statements one by one, verify the results, and debug as needed.
-5. Adapt minor syntax differences when required (e.g. `AUTO_INCREMENT` vs `SERIAL`, `LIMIT` vs `TOP`).
-
-> **Note:** Answers are intentionally not provided. The goal is to write, run, and debug every command yourself.
-
----
 
 ## Database Schema Overview
 
