@@ -56,5 +56,5 @@ A progressive, hands-on SQL training task designed for complete beginners. You w
 
 ---
 
-** Happy querying! **  
+**Happy querying!**  
 Once you finish all 133 questions you will be comfortable creating a complete relational database from scratch and writing queries ranging from simple SELECTs to multi-table joins and subqueries.
