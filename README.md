@@ -12,35 +12,6 @@ A progressive, hands-on SQL training task designed for complete beginners. You w
 
 ---
 
-## Project Structure
-
-
-PDF
-sql_beginners_task.pdf
-هعمل ريبو للتاسك ده وهخلي فايل sql لكل section
-عايزة وصف الريبو + ريدمي بروفيشنال
-
-
-Worked for 9s
-وصف الريبو (GitHub About / Description):
-
-Complete beginner-friendly SQL practice task (133 questions across 14 sections). Build a full company_store database from scratch — tables, constraints, data, queries, joins, subqueries, views & indexes. Ready-to-run SQL files per section.
-README.md الاحترافي:
-
-# SQL for Beginners – Complete Practice Task
-
-**From Zero to Queries**  
-Official Internal Training Assignment | Database & Backend Department
-
-A progressive, hands-on SQL training task designed for complete beginners. You will build a full relational database (`company_store`) for a small company that also runs an online store, starting from creating the database all the way to advanced queries, joins, subqueries, views, and indexes.
-
-**Total Questions:** 133  
-**Sections:** 14  
-**Estimated Duration:** 3–5 working sessions  
-**Supported Databases:** MySQL · PostgreSQL · SQLite · SQL Server
-
----
-
 
 Each file contains the SQL statements (and explanatory comments where needed) for its corresponding section.
 
@@ -91,14 +62,6 @@ Each file contains the SQL statements (and explanatory comments where needed) fo
 | 12      | Joins                                      | INNER, LEFT, multi-table joins             |
 | 13      | Subqueries                                 | Nested & correlated subqueries             |
 | 14      | Views, Indexes & Final Challenges          | Views, indexes + open-ended challenges     |
-
----
-
-## Final Challenges (Section 14)
-
-- Sales report per customer (orders count, total spent, most recent order)
-- Department generating the most indirect “value” (salaries of employees linked to active projects)
-- Design and integrate one brand-new table of your choice
 
 ---
 
