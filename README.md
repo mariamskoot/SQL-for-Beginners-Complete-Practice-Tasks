@@ -1,8 +1,6 @@
 # SQL for Beginners – Complete Practice Task
 
 **From Zero to Queries**  
-Official Internal Training Assignment | Database & Backend Department
-
 A progressive, hands-on SQL training task designed for complete beginners. You will build a full relational database (`company_store`) for a small company that also runs an online store, starting from creating the database all the way to advanced queries, joins, subqueries, views, and indexes.
 
 **Total Questions:** 133  
