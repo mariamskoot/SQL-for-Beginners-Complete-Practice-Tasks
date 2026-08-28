@@ -41,25 +41,6 @@ A progressive, hands-on SQL training task designed for complete beginners. You w
 
 ---
 
-## Project Structure
-sql-beginners-task/
-├── README.md
-├── section_01_creating_managing_database.sql
-├── section_02_creating_tables_data_types.sql
-├── section_03_constraints_relationships.sql
-├── section_04_altering_tables.sql
-├── section_05_inserting_data.sql
-├── section_06_updating_data.sql
-├── section_07_deleting_data.sql
-├── section_08_basic_select_queries.sql
-├── section_09_filtering_with_where.sql
-├── section_10_sorting_limiting.sql
-├── section_10b_ranking_window_functions.sql
-├── section_11_aggregate_functions_groupby.sql
-├── section_12_joins.sql
-├── section_13_subqueries.sql
-└── section_14_views_indexes_final_challenges.sql
-
 
 Each file contains the SQL statements (and explanatory comments where needed) for its corresponding section.
 
@@ -121,21 +102,15 @@ Each file contains the SQL statements (and explanatory comments where needed) fo
 
 ---
 
-## Tips for Success
-
-- Always work section by section in order.
-- Test every statement and inspect the results.
-- Use `DESCRIBE` / `\d` / `PRAGMA table_info` to check table structures.
-- Pay special attention to foreign key constraints when deleting or updating data.
-- Experiment safely — create a temporary database if you want to try destructive commands.
-
----
-
 ## Credits
 
 **Created by**  
 Engineer Ahmed Ayman EL-Saey  
 Database Engineer
+
+**Solved by**  
+Engineer Mariam Skoot 
+Data Analyst
 
 **Task Type:** Practical SQL Training Task  
 **Level:** Beginner
