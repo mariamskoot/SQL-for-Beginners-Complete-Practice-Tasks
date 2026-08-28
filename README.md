@@ -6,7 +6,7 @@ Official Internal Training Assignment | Database & Backend Department
 A progressive, hands-on SQL training task designed for complete beginners. You will build a full relational database (`company_store`) for a small company that also runs an online store, starting from creating the database all the way to advanced queries, joins, subqueries, views, and indexes.
 
 **Total Questions:** 133  
-**Sections:** 15
+**Sections:** 15    
 **Task Type:** Practical SQL Training Task  
 **Supported Databases:** MySQL · PostgreSQL · SQLite · SQL Server
 **Level:** Beginner
