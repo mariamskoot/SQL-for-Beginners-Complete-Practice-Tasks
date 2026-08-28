@@ -7,8 +7,9 @@ A progressive, hands-on SQL training task designed for complete beginners. You w
 
 **Total Questions:** 133  
 **Sections:** 14  
-**Estimated Duration:** 3–5 working sessions  
+**Task Type:** Practical SQL Training Task  
 **Supported Databases:** MySQL · PostgreSQL · SQLite · SQL Server
+**Level:** Beginner
 
 ---
 
@@ -55,20 +56,5 @@ A progressive, hands-on SQL training task designed for complete beginners. You w
 
 ---
 
-## Credits
-
-**Created by**  
-Engineer Ahmed Ayman EL-Saey  
-Database Engineer
-
-**Solved by**  
-Engineer Mariam Skoot 
-Data Analyst
-
-**Task Type:** Practical SQL Training Task  
-**Level:** Beginner
-
----
-
-Happy querying!  
+** Happy querying! **  
 Once you finish all 133 questions you will be comfortable creating a complete relational database from scratch and writing queries ranging from simple SELECTs to multi-table joins and subqueries.
